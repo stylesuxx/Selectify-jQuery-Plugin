@@ -1,4 +1,4 @@
-Selectify-jQuery-Plugin
+Selectify jQuery Plugin
 =======================
 Select one or more items from a container and mark them with an additional class. This is not limited to lists. You can pass an element selector of your choice as option.
 
